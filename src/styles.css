@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding-top: 50px;
+  color: black;
+}
+input {
+  margin-top: 20px;
+  padding: 1rem;
+  width: 80%;
+}
